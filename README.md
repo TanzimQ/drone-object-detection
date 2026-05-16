@@ -54,3 +54,5 @@ Human and car detection system using YOLOv8 trained on VisDrone dataset.
 - Heavy occlusion reduces recall
 - Dense crowd scenarios reduce accuracy
 
+
+Kaggle Notebook link - https://www.kaggle.com/code/mdtanzimqaiyum/drone-object-detection 
