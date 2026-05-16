@@ -100,3 +100,9 @@ wcwidth==0.7.0
 webcolors==25.10.0
 webencodings==0.5.1
 websocket-client==1.9.0
+ultralytics>=8.0.0
+opencv-python
+matplotlib
+numpy
+PyYAML
+EOF
