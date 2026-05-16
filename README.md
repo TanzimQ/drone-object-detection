@@ -1,4 +1,4 @@
-# Drone Object Detection — Antlings Technical Assessment
+# Drone Object Detection 
 
 Human and car detection system using YOLOv8 trained on VisDrone dataset.
 
